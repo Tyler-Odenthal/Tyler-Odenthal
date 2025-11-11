@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm a passionate developer who loves building great software and contributing to open source.
+I'm a passionate developer who loves building great software and contributing to open source. Founder of MoreStore!
 
 ## 📊 GitHub Metrics
 
