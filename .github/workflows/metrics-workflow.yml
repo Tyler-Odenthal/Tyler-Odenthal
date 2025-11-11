@@ -25,7 +25,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           
           # Options
-          user: YOUR_GITHUB_USERNAME_HERE
+          user: Tyler-Odenthal
           template: classic
           base: header, activity, community, repositories, metadata
           base_indepth: yes
