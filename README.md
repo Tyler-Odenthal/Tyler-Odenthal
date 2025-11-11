@@ -4,7 +4,7 @@ I'm a passionate developer who loves building great software and contributing to
 
 ## 📊 GitHub Metrics
 
-![Metrics](https://github.com/Tyler-Odenthal/Tyler-Odenthal/blob/main/github-metrics.svg)
+![GitHubMetrics](https://github.com/Tyler-Odenthal/Tyler-Odenthal/blob/main/github-metrics.svg)
 
 ## 🔗 Connect with me
 
