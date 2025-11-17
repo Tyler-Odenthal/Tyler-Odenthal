@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -219,14 +219,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="376.9375578019104" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="376.9375578019104" y="0" width="58.66613090714906" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="435.60368870905944" y="0" width="14.225766224155121" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="449.8294549332145" y="0" width="3.3687841358451562" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="453.1982390690597" y="0" width="2.9232840018654374" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="456.1215230709251" y="0" width="2.561988627141733" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="458.6835116980668" y="0" width="1.0271485219563" height="8" fill="#384d54"/>
-                    <rect mask="url(#languages-bar)" x="459.71066022002316" y="0" width="0.2893397799768565" height="8" fill="#C1F12E"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="372.50384736582646" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="372.50384736582646" y="0" width="62.00881302132492" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="434.51266038715136" y="0" width="15.444187376486388" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="449.9568477636377" y="0" width="3.326077257711299" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="453.282925021349" y="0" width="2.886420247707865" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="456.16934526905686" y="0" width="2.529509687658655" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="458.69885495671554" y="0" width="1.01547329255028" height="8" fill="#384d54"/>
+                    <rect mask="url(#languages-bar)" x="459.71432824926586" y="0" width="0.2856717507341195" height="8" fill="#C1F12E"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -2289,7 +2289,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>NexaAI/nexa-sdk</span>
-                                        <span>starred 5 days ago</span>
+                                        <span>starred 6 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Run the latest LLMs and VLMs across GPU, NPU, and CPU with PC (Python/C++) &amp; mobile (Android &amp; iOS) support, running quickly with OpenAI gpt-oss, Granite4, Qwen3VL, Gemma 3n and more.</div>
@@ -2498,7 +2498,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 17 Nov 2025, 12:19:19 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 17 Nov 2025, 13:15:20 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
