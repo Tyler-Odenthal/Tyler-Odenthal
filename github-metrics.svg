@@ -2408,7 +2408,7 @@
                                         <span>starred Aug 01 2025</span>
                                     </div>
                                 </div>
-                                <div class="field description">Agno is the programming language for agentic software. Build, deploy, and manage multi-agent systems at scale.</div>
+                                <div class="field description">Agno is the programming language for agentic software. Build, run, and manage multi-agent systems at scale.</div>
                                 <div class="field infos">
                                     <div class="language">
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -2508,7 +2508,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 18 Feb 2026, 04:55:32 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 18 Feb 2026, 06:05:54 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
